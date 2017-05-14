@@ -4,6 +4,8 @@ You're given an array, invert each number in the array.
 Negative numbers become positive.
 Postive numbers become negative.
 
+Hint: look into the push method of arrays
+
 */
 
 function invertNumbers(arr) {
