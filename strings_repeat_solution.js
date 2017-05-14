@@ -9,7 +9,7 @@ that word as a variable.
 
 */
 
-function mumbling(word, times) {
+function stuttering(word, times) {
 
   var string = ''
   for (var i = 0; i < times; i++) {
@@ -22,11 +22,11 @@ function mumbling(word, times) {
 With ES6 syntax and string method.
 ----------------------------------
 
-mumbling = (word, times) => word.repeat(times)
+stuttering = (word, times) => word.repeat(times)
 
 */
 
-console.log(mumbling('Hi ', 5))
+console.log(stuttering('Hi ', 5))
 // outputs HiHiHiHiHi
-console.log(mumbling('Javascript ', 2))
+console.log(stuttering('Javascript ', 2))
 // outputs Javascript Javascript

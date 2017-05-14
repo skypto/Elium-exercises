@@ -1,6 +1,6 @@
 /*
 
-Avery is at it again.
+Avery can't stop stuttering.
 
 The group is placing bets on how many times he's going to say the same word.
 
@@ -9,11 +9,11 @@ that word as a variable.
 
 */
 
-function mumbling(word, times) {
+function stuttering(word, times) {
 
 }
 
-console.log(mumbling('Hi ', 5))
+console.log(stuttering('Hi ', 5))
 // outputs HiHiHiHiHi
-console.log(mumbling('Javascript ', 2))
+console.log(stuttering('Javascript ', 2))
 // outputs Javascript Javascript
