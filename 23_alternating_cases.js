@@ -1,9 +1,9 @@
 /*
 
-Prajjwal lives in opposite land.
-Everything he writes comes out wrong.
+Cathrin lives in opposite land.
+Everything she writes comes out wrong.
 
-Write a function that takes a string and outputs it the way Prajjwal would
+Write a function that takes a string and outputs it the way Cathrin would
 write it.
 
 */

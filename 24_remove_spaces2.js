@@ -1,7 +1,7 @@
 /*
-Poor Avery, as you noticed, now he didn't leave any space between his words.
 
-Make sure there's proper spacing in his sentences.
+Once again, Avery is at it, make sure there is proper spacing between her words.
+
 */
 
 function removeAllSpacesButOne(str) {

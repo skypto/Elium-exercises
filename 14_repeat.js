@@ -1,10 +1,10 @@
 /*
 
-Avery can't stop stuttering.
+Avery is at it again.
 
-The group is placing bets on how many times he's going to say the same word.
+The group is placing bets on how many times she's going to say the same word.
 
-Write a function that takes a word, and the amount of times he's going to say
+Write a function that takes a word, and the amount of times she's going to say
 that word as a variable.
 
 */
@@ -14,6 +14,6 @@ function stuttering(word, times) {
 }
 
 console.log(stuttering('Hi ', 5))
-// outputs HiHiHiHiHi
+// outputs Hi Hi Hi Hi Hi 
 console.log(stuttering('Javascript ', 2))
 // outputs Javascript Javascript

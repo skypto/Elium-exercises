@@ -1,6 +1,6 @@
 /*
 
-Adrian-Florin is a bit mathematically challenged
+Adrian is a bit mathematically challenged
 
 Write a function that can tell you whether an integer is odd or even.
 

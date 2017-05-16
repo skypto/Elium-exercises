@@ -4,8 +4,6 @@ The calculator app on my windows machine doesn't want to start up anymore.
 Write a basic calculator app that takes 3 arguments,
 the operation and 2 integer.
 
-Hint: Look into the switch operator
-
 */
 
 function calculator(operation, n1, n2) {

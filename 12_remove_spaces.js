@@ -1,8 +1,8 @@
 /*
 
-Avery has some stuttering issues. He leaves long awkward pauses between words.
+Avery has some stuttering issues. She leaves long awkward pauses between words.
 
-Remove all pauses from his sentences.
+Remove all spaces from her sentences.
 
 */
 
