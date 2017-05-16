@@ -10,7 +10,7 @@ that word as a variable.
 */
 
 function stuttering(word, times) {
-
+	
 }
 
 console.log(stuttering('Hi ', 5))

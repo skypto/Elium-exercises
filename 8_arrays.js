@@ -27,3 +27,27 @@ var array = [
 'Anja', 
 'Jarrod'
 ]
+
+console.log(array[4])
+console.log(array.length)
+
+
+for (var i = 0; i < array.length; i++) {
+	console.log(array[i])
+}
+
+
+
+for (var i = 0; i < array.length; i++) {
+	if (array[i] === 'Anja') {
+		console.log(array[i] + ' is in position ' + i)
+	} else {
+		console.log(array[i])
+	}
+}
+
+
+
+
+
+
