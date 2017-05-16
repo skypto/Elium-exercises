@@ -1,6 +1,7 @@
 /*
 
-Print out the length of the array.
+Found out how many students there are in the array. 
+
 Then print out the name of every student in the console.
 
 */

@@ -1,4 +1,4 @@
-/*
+1/*
 
 Complete the function so that it squares each number and then sums it together.
 

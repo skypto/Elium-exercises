@@ -23,6 +23,6 @@ function removeAllSpacesButOne(str) {
 }
 
 console.log(removeAllSpacesButOne('Hi      Im  Avery'))
-// outputs
+// outputs Hi Im Avery
 console.log(removeAllSpacesButOne('Javascript          is    sexy'))
-// outputs
+// outputs Javascript is sexy

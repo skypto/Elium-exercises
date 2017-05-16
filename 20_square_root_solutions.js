@@ -1,8 +1,10 @@
 /*
 
-Write a method, that will get an integer array as parameter
-and will process every number from this array.
-If the number has an integer square root, take this, otherwise square the number.
+Write a function that takes an array of integers as an argument
+and outputs a new array.
+If a number in the array has a square root, output the square root 
+of that number in the new array. If not, output the square of the number
+in the new array.
 
 */
 
