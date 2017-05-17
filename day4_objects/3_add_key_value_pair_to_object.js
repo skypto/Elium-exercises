@@ -16,4 +16,4 @@ function addKeyValuePairToObject(object, key, value) {
 }
 
 console.log(addKeyValuePairToObject(object, 'country', 'Belgium'))
-// outputs { name: 'Frankyln', country: 'Belgium' }
+// outputs {name: 'Frankyln', country: 'Belgium'}
