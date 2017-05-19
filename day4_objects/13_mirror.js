@@ -9,6 +9,18 @@ var object = {one: 1, two: 2, three: 3, four: 4, five: 5}
 
 function mirror(object) {
 
+	var newObject = {}
+
+	var reversedArrayOfKeys = Object.keys(object).reverse()
+
+	//[ 'five', 'four', 'three', 'two', 'one' ]
+
+	for (var i = 0; i < reversedArrayOfKeys.length; i++) {
+		newObject[reversedArrayOfKeys[i]] = object[reversedArrayOfKeys[i]]
+	}
+
+	return newObject
+
 }
 
 console.log(mirror(object))

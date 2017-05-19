@@ -21,6 +21,10 @@ var object1 = {name: 'Anja'}
 
 function copyObject(object1) {
 
+	var object = Object.assign({},object1)
+
+	return object
+
 }
 
 object2 = copyObject(object1)
