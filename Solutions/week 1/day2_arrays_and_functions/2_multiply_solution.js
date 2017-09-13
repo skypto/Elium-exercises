@@ -9,3 +9,5 @@ var b = 20
 
 console.log(a + b)
 //outputs 30
+
+// This is an addition
