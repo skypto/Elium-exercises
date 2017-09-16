@@ -5,5 +5,4 @@ Let's keep the tradition going,
 print out "Hello world" to the console.
 */
 
-
 console.log('Hello world!')

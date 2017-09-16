@@ -28,6 +28,7 @@ var array = [
 'Jarrod'
 ]
 
+
 console.log(array[4])
 console.log(array.length)
 

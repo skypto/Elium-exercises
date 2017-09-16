@@ -6,6 +6,7 @@ Split the string into multiple lines.
 
 */
 
+// the '\' makes it possible to  run the string without breaks.
 
 console.log('I\'m Kirill and I\'m cool and blabalba. \nYadadada')
 

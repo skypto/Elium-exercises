@@ -50,6 +50,8 @@ console.log(false || false)
 // outputs false
 console.log('------13-----')
 console.log('------14-----')
+
+//whatever shows after the ? maps to TRUE:FALSE, 
 console.log(false ? 1 : 2)
 // outputs 2
 console.log(true ? 1 : 2)
@@ -72,7 +74,7 @@ console.log('------18-----')
 console.log(null || 'Cathrin')
 // outputs Cathrin
 console.log('------19-----')
-console.log('Rien' || 'Nisha')
+console.log('Rien' || 'Nisha')   //it will always give you the first one when it's or
 // outputs Rien
 console.log('------20-----')
 console.log('Anja' || 'Jarrod')
